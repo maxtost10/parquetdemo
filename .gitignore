@@ -1,0 +1,6 @@
+# Ignore virtual envirnonment
+myenv/
+__pycache__/
+
+# Ignore Parquet files
+*.parquet
